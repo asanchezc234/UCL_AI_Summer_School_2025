@@ -1,2 +1,3 @@
-# UCL_AI_Summer_School_2025
-Code and data files for the course 'AI: Concepts and Applications' from the 2025 UCL Summer School 
+## UCL AI Summer School 2025
+# Artificial Intelligence: Concepts and Applications
+### Code and data files for problem classes
